@@ -74,7 +74,7 @@ void move_file() {
     scanf("%d", &a);
     if (a == 1) {
         print_file();
-    }c
+    }
 
     printf("Enter the source file name: ");
     scanf("%s", fn1);  // Read source file name
